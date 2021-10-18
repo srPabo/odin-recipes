@@ -1,0 +1,1 @@
+This is the first checkpoint project in The Odin Project
